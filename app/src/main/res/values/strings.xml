@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportsSpeaker</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">5ii2HuraL7QdVy0due5XZglPAJ8UuEoYBGS4KEsl</string>
+    <string name="back4app_client_key">P3VVqWxinuJ6p5pZSNAjcwzWG31NB3H07dJAKlIw</string>
+</resources>
